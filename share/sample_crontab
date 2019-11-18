@@ -1,0 +1,2 @@
+# run Wienchain-Sentinel every minute
+* * * * * cd /home/YOURUSERNAME/sentinel && ./venv/bin/python bin/sentinel.py >/dev/null 2>&1
